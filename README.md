@@ -13,4 +13,4 @@ run apsferias.py
 ```
 
 ## :hammer: Resources
-Written in python using the library [Pygame](https://www.pygame.org/ "Pygame").
+Written in Python using the library [Pygame](https://www.pygame.org/ "Pygame").
