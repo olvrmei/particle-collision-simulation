@@ -1,16 +1,8 @@
 # Particle Collision Simulation
 ## :dart: What is it?
-This is a short project I made for my physics 2 class. The simulation contains spheres(particles) inside a box that collide with each other.
-\
-for more explanation https://www.youtube.com/watch?v=mzPoITP7XyE&feature=emb_logo
-\
-![Particle Collision Demo](demo.gif)
+This is a short summer break project I made in 2019 after studying collisions in physics 1. The simulation contains spheres(particles) inside a box that collide elastically with each other.
 
-## :space_invader: How to run the code
-Under construction...
-```bash
-run apsferias.py
-```
+![Particle Collision Demo](demo.gif)
 
 ## :hammer: Resources
 Written in Python using the library [Pygame](https://www.pygame.org/ "Pygame").
